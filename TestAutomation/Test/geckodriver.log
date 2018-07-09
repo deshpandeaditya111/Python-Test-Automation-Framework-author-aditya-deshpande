@@ -1,0 +1,400 @@
+1530530844189	geckodriver	INFO	geckodriver 0.19.1
+1530530844207	geckodriver	INFO	Listening on 127.0.0.1:54677
+1530530847271	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.oncycxmweByG"
+1530530855468	Marionette	INFO	Listening on port 54686
+1530530856595	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530791885899	geckodriver	INFO	geckodriver 0.19.1
+1530791885907	geckodriver	INFO	Listening on 127.0.0.1:58260
+1530791889071	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.6MU5YOVWkrx8"
+1530791897135	Marionette	INFO	Listening on port 58274
+1530791898556	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530797163153	geckodriver	INFO	geckodriver 0.19.1
+1530797163161	geckodriver	INFO	Listening on 127.0.0.1:52903
+1530797166324	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.miRWrOiNwk0Z"
+1530797170158	Marionette	INFO	Listening on port 52913
+1530797170741	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530797171664	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+1530860551690	geckodriver	INFO	geckodriver 0.19.1
+1530860551749	geckodriver	INFO	Listening on 127.0.0.1:50656
+1530860554832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.CYfvmjhNpVrU"
+1530860562804	Marionette	INFO	Listening on port 50671
+1530860563821	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530860589204	geckodriver	INFO	geckodriver 0.19.1
+1530860589212	geckodriver	INFO	Listening on 127.0.0.1:50762
+1530860592298	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.bjYbgRBjh70v"
+1530860595758	Marionette	INFO	Listening on port 50770
+1530860596187	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530861023168	geckodriver	INFO	geckodriver 0.19.1
+1530861023176	geckodriver	INFO	Listening on 127.0.0.1:51278
+1530861026246	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.k2bcrxj2slmq"
+1530861029856	Marionette	INFO	Listening on port 51290
+1530861029881	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\aditya\AppData\Local\openvr\openvrpaths.vrpath
+1530861103646	geckodriver	INFO	geckodriver 0.19.1
+1530861103654	geckodriver	INFO	Listening on 127.0.0.1:51389
+1530861106742	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.SPeMGUlt9lhb"
+1530861110088	Marionette	INFO	Listening on port 51397
+1530861110527	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\aditya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://dt-aditya.technologic.com:9900/eQubeMI/MILogo.jsp, line 336: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530861275749	geckodriver	INFO	geckodriver 0.19.1
+1530861275758	geckodriver	INFO	Listening on 127.0.0.1:64097
+1530861278842	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.KlZxElmzEHc6"
+1530861282160	Marionette	INFO	Listening on port 64109
+1530861282734	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\aditya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://dt-aditya.technologic.com:9900/eQubeMI/MILogo.jsp, line 336: unreachable code after return statement
+1530861436163	geckodriver	INFO	geckodriver 0.19.1
+1530861436170	geckodriver	INFO	Listening on 127.0.0.1:64259
+1530861439262	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.PLG7Wx93riTv"
+1530861442894	Marionette	INFO	Listening on port 64267
+1530861444110	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\aditya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://dt-aditya.technologic.com:9900/eQubeMI/MILogo.jsp, line 336: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530861632703	geckodriver	INFO	geckodriver 0.19.1
+1530861632710	geckodriver	INFO	Listening on 127.0.0.1:64394
+1530861635832	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.8w0Jts4tNvAv"
+1530861639207	Marionette	INFO	Listening on port 64405
+1530861639475	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\aditya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://dt-aditya.technologic.com:9900/eQubeMI/MILogo.jsp, line 336: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530861882351	geckodriver	INFO	geckodriver 0.19.1
+1530861882359	geckodriver	INFO	Listening on 127.0.0.1:64657
+1530861885446	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.QLMGCYX5Yy5E"
+1530861888789	Marionette	INFO	Listening on port 64668
+1530861889268	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\aditya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://dt-aditya.technologic.com:9900/eQubeMI/MILogo.jsp, line 336: unreachable code after return statement
+1530862074516	geckodriver	INFO	geckodriver 0.19.1
+1530862074524	geckodriver	INFO	Listening on 127.0.0.1:64918
+1530862077653	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.qOZw4I71cZCx"
+1530862081316	Marionette	INFO	Listening on port 64926
+1530862082299	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530862082594	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+1530862085323	geckodriver	INFO	geckodriver 0.19.1
+1530862085330	geckodriver	INFO	Listening on 127.0.0.1:64947
+1530862088430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.sdeQTGDkPHGW"
+1530862091472	Marionette	INFO	Listening on port 64961
+1530862091738	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\aditya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://dt-aditya.technologic.com:9900/eQubeMI/MILogo.jsp, line 336: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530862282083	geckodriver	INFO	geckodriver 0.19.1
+1530862282091	geckodriver	INFO	Listening on 127.0.0.1:65120
+1530862285178	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.pd2fCAE6Irm7"
+1530862288550	Marionette	INFO	Listening on port 65130
+1530862289337	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530862294191	geckodriver	INFO	geckodriver 0.19.1
+1530862294199	geckodriver	INFO	Listening on 127.0.0.1:65174
+1530862297294	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.NYwJETZB4sEt"
+1530862300548	Marionette	INFO	Listening on port 65194
+1530862301832	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530867201128	geckodriver	INFO	geckodriver 0.19.1
+1530867201137	geckodriver	INFO	Listening on 127.0.0.1:52308
+1530867204238	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.hNJyjJpRYHAS"
+1530867216929	geckodriver	INFO	geckodriver 0.19.1
+1530867216937	geckodriver	INFO	Listening on 127.0.0.1:52333
+1530867220003	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.PCSMHJFZkHRX"
+1530867223426	Marionette	INFO	Listening on port 52341
+1530867223780	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530867228383	geckodriver	INFO	geckodriver 0.19.1
+1530867228391	geckodriver	INFO	Listening on 127.0.0.1:52383
+1530867231436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.Yx94rKgxRxCr"
+1530867234781	Marionette	INFO	Listening on port 52403
+1530867235122	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530867791654	geckodriver	INFO	geckodriver 0.19.1
+1530867791661	geckodriver	INFO	Listening on 127.0.0.1:52626
+1530867794726	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.AwjMxUoQtMZG"
+1530867798348	Marionette	INFO	Listening on port 52635
+1530867798359	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\aditya\AppData\Local\openvr\openvrpaths.vrpath
+1530867973566	geckodriver	INFO	geckodriver 0.19.1
+1530867973627	geckodriver	INFO	Listening on 127.0.0.1:52737
+1530867976667	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.Fd5xPFPdwjb6"
+1530867981918	Marionette	INFO	Listening on port 52745
+1530867983074	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\aditya\AppData\Local\openvr\openvrpaths.vrpath
+127.0.0.1:52802
+1530868070392	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.9oezDS8Xb0rm"
+1530868074445	Marionette	INFO	Listening on port 52810
+1530868074711	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\aditya\AppData\Local\openvr\openvrpaths.vrpath
+1530868169272	geckodriver	INFO	geckodriver 0.19.1
+1530868169280	geckodriver	INFO	Listening on 127.0.0.1:52849
+1530868172361	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.tKKEhEZechfI"
+1530868176353	Marionette	INFO	Listening on port 52857
+1530868176784	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\aditya\AppData\Local\openvr\openvrpaths.vrpath
+127.0.0.1:52925
+1530868325731	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.m2FEiq4CGrZk"
+1530868330222	Marionette	INFO	Listening on port 52933
+1530868331238	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\aditya\AppData\Local\openvr\openvrpaths.vrpath
+127.0.0.1:49198
+1530868503230	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.HAD4hzzKA4hz"
+1530868507473	Marionette	INFO	Listening on port 49207
+1530868508555	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530868573978	geckodriver	INFO	geckodriver 0.19.1
+1530868573986	geckodriver	INFO	Listening on 127.0.0.1:49248
+1530868577087	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.y1FxhsXOUe0G"
+1530868581785	Marionette	INFO	Listening on port 49256
+1530868582328	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\aditya\AppData\Local\openvr\openvrpaths.vrpath
+1530868629768	geckodriver	INFO	geckodriver 0.19.1
+1530868629776	geckodriver	INFO	Listening on 127.0.0.1:49300
+1530868632872	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.5PZzZdFY8FNF"
+1530868636458	Marionette	INFO	Listening on port 49309
+1530868636501	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530868787582	geckodriver	INFO	geckodriver 0.19.1
+1530868787590	geckodriver	INFO	Listening on 127.0.0.1:49399
+1530868790690	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.HiSwlgAmLVko"
+1530868794031	Marionette	INFO	Listening on port 49407
+1530868794350	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\aditya\AppData\Local\openvr\openvrpaths.vrpath
+1530869684554	geckodriver	INFO	geckodriver 0.19.1
+1530869684562	geckodriver	INFO	Listening on 127.0.0.1:49846
+1530869687663	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.RG2xwTcCmH4s"
+1530869691532	Marionette	INFO	Listening on port 49854
+1530869691796	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registr1530869736463	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.9Ky2TOurWVaK"
+1530869740582	Marionette	INFO	Listening on port 49905
+1530869740591	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530869802604	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530869991803	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\aditya\AppData\Local\openvr\openvrpaths.vrpath
+127.0.0.1:50271
+1530871049171	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.uEritGLgPQPa"
+1530871052663	Marionette	INFO	Listening on port 50279
+1530871053407	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530871196562	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530871348887	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+Unable to read VR Path Registry from C:\Users\aditya\AppData\Local\openvr\openvrpaths.vrpath
+ust_mozprofile.8WYGkPmlskhA"
+1530871202953	Marionette	INFO	Listening on port 50358
+1530871204860	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\aditya\AppData\Local\openvr\openvrpaths.vrpath
+127.0.0.1:50407
+1530871273396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.slBhHbAfIzmg"
+1530871277766	Marionette	INFO	Listening on port 50416
+1530871279008	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\aditya\AppData\Local\openvr\openvrpaths.vrpath
+127.0.0.1:50463
+1530871329819	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.iixoYKEAUjxV"
+1530871333317	Marionette	INFO	Listening on port 50472
+1530871333451	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\aditya\AppData\Local\openvr\openvrpaths.vrpath
+1530871764280	geckodriver	INFO	geckodriver 0.19.1
+1530871764288	geckodriver	INFO	Listening on 127.0.0.1:50834
+1530871767376	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.CdMsp61rdUZm"
+1530871770559	Marionette	INFO	Listening on port 50842
+1530871771707	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\aditya\AppData\Local\openvr\openvrpaths.vrpath
+\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.X69s8PVYEuMY"
+1530871806660	Marionette	INFO	Listening on port 50898
+1530871807478	Marionette	WARN	TLS certificate errors will be ignored for this session
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Unable to read VR Path Registry from C:\Users\aditya\AppData\Local\openvr\openvrpaths.vrpath
+1530871905347	geckodriver	INFO	geckodriver 0.19.1
+1530871905355	geckodriver	INFO	Listening on 127.0.0.1:50955
+1530871908443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.hKwxIGh5eDF7"
+1530871911831	Marionette	INFO	Listening on port 50967
+1530871912464	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\aditya\AppData\Local\openvr\openvrpaths.vrpath
+127.0.0.1:51000
+1530871956416	geckodriver	INFO	geckodriver 0.19.1
+1530871956423	geckodriver	INFO	Listening on 127.0.0.1:51002
+1530871959522	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.iTMzebUWBF3R"
+1530871962833	Marionette	INFO	Listening on port 51010
+1530871963460	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530872031614	geckodriver	INFO	geckodriver 0.19.1
+1530872031622	geckodriver	INFO	Listening on 127.0.0.1:65285
+1530872034676	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.NzxwT6zIoXQt"
+1530872038560	Marionette	INFO	Listening on port 65293
+1530872038813	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530872109846	geckodriver	INFO	geckodriver 0.19.1
+1530872109853	geckodriver	INFO	Listening on 127.0.0.1:65384
+1530872112950	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.Pa6dM0q4bQJf"
+1530872116746	Marionette	INFO	Listening on port 65392
+1530872117328	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530872493186	geckodriver	INFO	geckodriver 0.19.1
+1530872493194	geckodriver	INFO	Listening on 127.0.0.1:65524
+1530872496285	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.PoC8O9ZE8pvX"
+1530872499610	Marionette	INFO	Listening on port 49153
+1530872500133	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\aditya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-36116321-2&l=dataLayer, line 68: unreachable code after return statement
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=UA-36116321-2&l=dataLayer, line 68: unreachable code after return statement
+1530872549453	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+1530872549455	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+1530872697451	geckodriver	INFO	geckodriver 0.19.1
+1530872697459	geckodriver	INFO	Listening on 127.0.0.1:49252
+1530872700555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.Ck68R7ltx560"
+1530872703947	Marionette	INFO	Listening on port 49260
+1530872704409	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530873444723	geckodriver	INFO	geckodriver 0.19.1
+1530873444731	geckodriver	INFO	Listening on 127.0.0.1:49538
+1530873447824	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.YzbYNIfUZDQj"
+1530873451386	Marionette	INFO	Listening on port 49546
+1530873451946	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530873504186	geckodriver	INFO	geckodriver 0.19.1
+1530873504194	geckodriver	INFO	Listening on 127.0.0.1:49613
+1530873507281	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.4QFUayL5f7oJ"
+1530873510880	Marionette	INFO	Listening on port 49621
+1530873510955	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530873650775	geckodriver	INFO	geckodriver 0.19.1
+1530873650783	geckodriver	INFO	Listening on 127.0.0.1:49688
+1530873653878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.1mo8WiTPq1tV"
+1530873657128	Marionette	INFO	Listening on port 49697
+1530873658279	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530873662368	geckodriver	INFO	geckodriver 0.19.1
+1530873662377	geckodriver	INFO	Listening on 127.0.0.1:49744
+1530873665459	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.5VkHvy31zVeB"
+1530873668782	Marionette	INFO	Listening on port 49763
+1530873669402	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530873816545	geckodriver	INFO	geckodriver 0.19.1
+1530873816553	geckodriver	INFO	Listening on 127.0.0.1:49953
+1530873819645	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.EXtoF4nhTS7f"
+1530873822951	Marionette	INFO	Listening on port 49961
+1530873823341	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530873844303	geckodriver	INFO	geckodriver 0.19.1
+1530873844311	geckodriver	INFO	Listening on 127.0.0.1:50012
+1530873847407	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.oTVippxYJPDw"
+1530873850665	Marionette	INFO	Listening on port 50027
+1530873851054	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530873861838	geckodriver	INFO	geckodriver 0.19.1
+1530873861846	geckodriver	INFO	Listening on 127.0.0.1:50080
+1530873864928	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.cC2RQeA33NPk"
+1530873868156	Marionette	INFO	Listening on port 50092
+1530873869659	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530873883488	geckodriver	INFO	geckodriver 0.19.1
+1530873883496	geckodriver	INFO	Listening on 127.0.0.1:50127
+1530873886555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.dpj6kzWtnGl4"
+1530873890235	Marionette	INFO	Listening on port 50135
+1530873890802	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530873894920	geckodriver	INFO	geckodriver 0.19.1
+1530873894928	geckodriver	INFO	Listening on 127.0.0.1:50173
+1530873897983	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.kSbtMuyHOXHb"
+1530873901357	Marionette	INFO	Listening on port 50195
+1530873902454	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530873941703	geckodriver	INFO	geckodriver 0.19.1
+1530873941711	geckodriver	INFO	Listening on 127.0.0.1:50307
+1530873944798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.8MZ7gR8UbylW"
+1530873947971	Marionette	INFO	Listening on port 50315
+1530873948889	Marionette	WARN	TLS certificate errors will be ignored for this session
+Unable to read VR Path Registry from C:\Users\aditya\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript warning: http://dt-aditya.technologic.com:9900/eQubeMI/MILogo.jsp, line 336: unreachable code after return statement
+1530874037257	geckodriver	INFO	geckodriver 0.19.1
+1530874037265	geckodriver	INFO	Listening on 127.0.0.1:50416
+1530874040349	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.mdyC222B3cUL"
+1530874043494	Marionette	INFO	Listening on port 50424
+1530874044427	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530874047728	geckodriver	INFO	geckodriver 0.19.1
+1530874047736	geckodriver	INFO	Listening on 127.0.0.1:50464
+1530874050814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.S3xrQKPUKcY5"
+1530874053800	Marionette	INFO	Listening on port 50484
+1530874054079	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530875080430	geckodriver	INFO	geckodriver 0.19.1
+1530875080438	geckodriver	INFO	Listening on 127.0.0.1:51084
+1530875083511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.oSD1jk7Kh0Kd"
+1530875086935	Marionette	INFO	Listening on port 51103
+1530875087294	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530875527327	geckodriver	INFO	geckodriver 0.19.1
+1530875527336	geckodriver	INFO	Listening on 127.0.0.1:51410
+1530875530423	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.WjkPmYo486eL"
+1530875533930	Marionette	INFO	Listening on port 51418
+1530875534239	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530879976591	geckodriver	INFO	geckodriver 0.19.1
+1530879976603	geckodriver	INFO	Listening on 127.0.0.1:57795
+1530879979677	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.zSSctJExPiaF"
+1530879983294	Marionette	INFO	Listening on port 57804
+1530879983320	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530879984384	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///C:/Program%20Files/Mozilla%20Firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4436
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2287
+1530880113944	geckodriver	INFO	geckodriver 0.19.1
+1530880113952	geckodriver	INFO	Listening on 127.0.0.1:57859
+1530880117047	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.SqwUJuaOBoEB"
+1530880120713	Marionette	INFO	Listening on port 57867
+1530880121913	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530880125129	geckodriver	INFO	geckodriver 0.19.1
+1530880125137	geckodriver	INFO	Listening on 127.0.0.1:57910
+1530880128226	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.B3iX2GCtJY2r"
+1530880131756	Marionette	INFO	Listening on port 57930
+1530880132267	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530880231391	geckodriver	INFO	geckodriver 0.19.1
+1530880231399	geckodriver	INFO	Listening on 127.0.0.1:58010
+1530880234485	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.JFRe0JI08jeY"
+1530880237840	Marionette	INFO	Listening on port 58018
+1530880238139	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530880241815	geckodriver	INFO	geckodriver 0.19.1
+1530880241822	geckodriver	INFO	Listening on 127.0.0.1:58059
+1530880244885	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.OxDbVxFkMNcR"
+1530880248409	Marionette	INFO	Listening on port 58079
+1530880248730	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530880318690	geckodriver	INFO	geckodriver 0.19.1
+1530880318698	geckodriver	INFO	Listening on 127.0.0.1:58161
+1530880321781	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.7jsMmpMVauCE"
+1530880325352	Marionette	INFO	Listening on port 58173
+1530880325741	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530880329422	geckodriver	INFO	geckodriver 0.19.1
+1530880329429	geckodriver	INFO	Listening on 127.0.0.1:58210
+1530880332510	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.Lnhu6cPXKBdq"
+1530880335910	Marionette	INFO	Listening on port 58231
+1530880336305	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530880452066	geckodriver	INFO	geckodriver 0.19.1
+1530880452073	geckodriver	INFO	Listening on 127.0.0.1:58330
+1530880455156	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.63dJ6dYnuLSX"
+1530880458159	Marionette	INFO	Listening on port 58338
+1530880458525	Marionette	WARN	TLS certificate errors will be ignored for this session
+1530880462125	geckodriver	INFO	geckodriver 0.19.1
+1530880462133	geckodriver	INFO	Listening on 127.0.0.1:58377
+1530880465227	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.03mkpzCJXf1z"
+1530880468508	Marionette	INFO	Listening on port 58398
+1530880469322	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531129510620	geckodriver	INFO	geckodriver 0.19.1
+1531129510648	geckodriver	INFO	Listening on 127.0.0.1:51364
+1531129513846	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.9TqPIrfxfUH3"
+console.error: "Could not write session state file " (new Error("_initWorker called too early! Please read the session file from disk first.", "resource:///modules/sessionstore/SessionFile.jsm", 337)) "_initWorker/<@resource:///modules/sessionstore/SessionFile.jsm:337:15\n_initWorker@resource:///modules/sessionstore/SessionFile.jsm:330:12\n_postToWorker@resource:///modules/sessionstore/SessionFile.jsm:354:11\nwrite@resource:///modules/sessionstore/SessionFile.jsm:394:19\nwrite@resource:///modules/sessionstore/SessionFile.jsm:66:12\n_writeState@resource:///modules/sessionstore/SessionSaver.jsm:357:12\n_saveState@resource:///modules/sessionstore/SessionSaver.jsm:295:12\n_saveStateAsync@resource:///modules/sessionstore/SessionSaver.jsm:341:5\nsaveStateAsyncWhenIdle@resource:///modules/sessionstore/SessionSaver.jsm:192:9\n"
+1531129527856	Marionette	INFO	Listening on port 51372
+1531129528308	Marionette	WARN	TLS certificate errors will be ignored for this session
+1531129536251	geckodriver	INFO	geckodriver 0.19.1
+1531129536259	geckodriver	INFO	Listening on 127.0.0.1:51434
+1531129539299	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\aditya\\AppData\\Local\\Temp\\rust_mozprofile.wKKUYMIiz0KS"
+1531129542976	Marionette	INFO	Listening on port 51457
+1531129544280	Marionette	WARN	TLS certificate errors will be ignored for this session
